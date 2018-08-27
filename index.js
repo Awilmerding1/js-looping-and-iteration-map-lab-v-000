@@ -11,5 +11,5 @@ function nameToAttributes(drivers) {
 }
 
 function attributesToPhrase(drivers) {
-  
+  const newDrivers = drivers.map(function(d))
 }
